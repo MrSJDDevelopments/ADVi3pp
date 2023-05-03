@@ -1,5 +1,9 @@
 # ADVi3++, an advanced and better firmware for Wanhao i3 Plus Printers
 
+This Fork is a pre modified version of the sourcecode from Sebastien Andrivet.  This code will require a custom sub bloard to utalise a BLTouch.
+
+https://oshwlab.com/MrGamecase/wanhao-duplicator-i3-mkii-subboard
+
 ## Introduction
 
 **ADVi3++** is a fork of the [Marlin Firmware](http://marlinfw.org/) for the Wanhao Duplicator i3 Plus (and its clones: Monoprice Maker Select Plus, Cocoon Create, ...). It includes both Marlin itself and screens for the LCD Panel.
