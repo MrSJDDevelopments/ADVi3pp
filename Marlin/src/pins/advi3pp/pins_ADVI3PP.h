@@ -53,7 +53,8 @@
 #elif MB(ADVI3PP_I3_PLUS_54) 
   #define Z_STOP_PIN 6 // PH3 / PCINT8 
   #define Z_MIN_PROBE_PIN 6 // PH3 / PCINT8 
-  #if ENABLED(BLTOUCH) #define SERVO0_PIN 7 // PG1 / !RD 
+  #if ENABLED(BLTOUCH) 
+    #define SERVO0_PIN 7 // PG1 / !RD 
   #endif
 #else
   #error "Unknown ADVi3++ mainboard"
