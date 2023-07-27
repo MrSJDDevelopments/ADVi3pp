@@ -1,7 +1,15 @@
 # ADVi3++, an advanced and better firmware for Wanhao i3 Plus Printers
 
-This Fork is a pre modified version of the sourcecode from Sebastien Andrivet.  This code will require a custom sub bloard to utalise a BLTouch.
+This Fork is a pre-modified version of the sourcecode from Sebastien Andrivet.  This code will require a custom sub bloard to utalise a BLTouch or BLTouch Smart.
 
+-- MrSJDDevelopments Home / Project --
+https://www.mrsjddevelopments.com/
+https://www.mrsjddevelopments.com/projects-landing/wdi3p-landing/
+
+-- MrSJDDevelopments Shop --
+https://www.ebay.co.uk/usr/mrsjddevelopments
+
+-- MrSJDDevelopments - Oshwlab Design Link --
 https://oshwlab.com/MrGamecase/wanhao-duplicator-i3-mkii-subboard
 
 ## Introduction
