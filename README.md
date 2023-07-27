@@ -2,7 +2,7 @@
 
 This Fork is a pre-modified version of the sourcecode from Sebastien Andrivet.  This code will require a custom sub bloard to utalise a BLTouch or BLTouch Smart.
 
--- MrSJDDevelopments Home / Project --
+|| MrSJDDevelopments Home / Project ||
 
 https://www.mrsjddevelopments.com/
 https://www.mrsjddevelopments.com/projects-landing/wdi3p-landing/
